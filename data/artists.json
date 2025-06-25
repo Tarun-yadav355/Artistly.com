@@ -1,0 +1,26 @@
+[
+  {
+    "name": "DJ Ravish",
+    "category": "DJs",
+    "priceRange": "₹20k - ₹50k",
+    "location": "Mumbai"
+  },
+  {
+    "name": "Neha Sharma",
+    "category": "Singers",
+    "priceRange": "₹30k - ₹60k",
+    "location": "Delhi"
+  },
+  {
+    "name": "Priya Kapoor",
+    "category": "Dancers",
+    "priceRange": "₹15k - ₹25k",
+    "location": "Bangalore"
+  },
+  {
+    "name": "Rahul Mehra",
+    "category": "Speakers",
+    "priceRange": "₹10k - ₹20k",
+    "location": "Hyderabad"
+  }
+]

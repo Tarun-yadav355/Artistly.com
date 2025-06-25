@@ -1,0 +1,14 @@
+[
+  {
+    "name": "DJ Ravish",
+    "category": "DJs",
+    "fee": "₹40k",
+    "location": "Mumbai"
+  },
+  {
+    "name": "Neha Sharma",
+    "category": "Singers",
+    "fee": "₹55k",
+    "location": "Delhi"
+  }
+]
